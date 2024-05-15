@@ -1,5 +1,6 @@
 body{
     background-color: brown;
     background-image: url(./pexels-photo-1133957.jpeg);
+    background-size: 100px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
